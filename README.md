@@ -1,3 +1,4 @@
-MyBlog
-Choosing right effects and  checking with temporary contents.
+MyBlog.
+
+Adding right effects and  checking with temporary contents.
 #####Sketching my blog
